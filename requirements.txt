@@ -1,0 +1,10 @@
+following are the requirements to run this project successfully:-
+
+Flask
+    pip install flask
+    
+NLTK (Natural Language ToolKit)
+  pip install nltk
+  
+pytz
+  pip install pytz
