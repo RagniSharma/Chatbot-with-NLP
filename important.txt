@@ -1,0 +1,4 @@
+the files 
+  'index.html'    //homepage
+  'chat.html/     //main page of chatting with the bot
+are need to be stored in the folder 'templates' in the project directory
